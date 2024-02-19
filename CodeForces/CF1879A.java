@@ -1,5 +1,5 @@
 import java.util.*;
-public class CF1879{
+public class CF1879A{
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         int testCase= sc.nextInt();
